@@ -1,6 +1,6 @@
 <h1 align="center">Aqsa Isha</h1>
 <h3 align="center">An Aspiring Software Engineer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src=" ">
+<img align="right" alt="coding" width="400" src="https://github.com/aqsa-isha/aqsa-isha1/blob/main/Hello%20Dribbble!.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-isha&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa-isha" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
